@@ -493,25 +493,25 @@ function Hero() {
 function Stats() {
   const stats = [
     {
-      value: "₹3.14L",
+      value: "₹6.72L",
       label: "Ad budget / spend",
       desc: "Combined reported campaign spend",
       icon: IndianRupee,
     },
     {
-      value: "3,382",
+      value: "8,182",
       label: "Reported leads",
       desc: "Across January–September 2026",
       icon: Users,
     },
     {
-      value: "₹28.56L",
+      value: "₹64.56L",
       label: "Reported revenue",
       desc: "Excluding GST; attribution not independently verified",
       icon: TrendingUp,
     },
     {
-      value: "₹92.84",
+      value: "₹82.13",
       label: "Average CPL",
       desc: "Reported average cost per lead",
       icon: Target,
